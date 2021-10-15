@@ -1,4 +1,4 @@
-const sumLargestNumbers = function(data) {
+/* const sumLargestNumbers = function(data) {
   let newNum1 = 0;
   let newNum2 = 0;
   let total = 0;
@@ -26,7 +26,7 @@ console.log(sumLargestNumbers([1, 2, 3]));
 console.log(sumLargestNumbers([10, 4, 34, 6, 92, 2]));
 
 
-/* Alternative */
+Alternative 
 
 const selectionSort = function(inputArr) {
   let n = inputArr.length;
@@ -66,4 +66,6 @@ const sumLargestNumbers2 = function(data) {
 console.log(sumLargestNumbers2([1, 10]));
 console.log(sumLargestNumbers2([1, 2, 3]));
 console.log(sumLargestNumbers2([10, 4, 34, 6, 92, 2]));
+
+*/ 
 
